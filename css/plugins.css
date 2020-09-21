@@ -1,0 +1,61 @@
+/*-----------------------------------------------------------------------------------
+
+    Theme Name: Fabrex - Restaurant and Cafe
+    Description: Onepage Restaurant and Cafe Template
+    Author: Chitrakoot Web
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+/* ----------------------------------------------------------------
+			[ All CSS Plugins & Default Classes File ]
+-----------------------------------------------------------------*/
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == animate Headline == */
+@import url("plugins/animate.css");
+
+/* == fontawesome icon font == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == magnific-popup == */
+@import url("plugins/magnific-popup.css");
+
+/* == date-picker == */
+@import url("plugins/datepicker.css");
+
+/* == clock-picker == */
+@import url("plugins/clockpicker.css");
+
+/* == owl.carousel == */
+@import url("plugins/owl.carousel.min.css");
+@import url("plugins/owl.theme.default.min.css");
+
+/* == helper classes == */
+@import url("plugins/default.css");
+
+/* == mailform == */
+@import url("plugins/mailform.css");
+
+
+
+
+/* == et-line icon font == */
+@import url("plugins/et-line.css");
+
+/* == icon moon == */
+@import url("plugins/icomoon.css");
+
+/* == zoom css == */
+@import url("plugins/xzoom.css");
+    
+
+/* == navigation == 
+@import url("plugins/nav-menu.css");*/
+
+/* == contact form classes == */
+@import url("plugins/mailform.css");
+
+/* == prism css == */
+@import url("plugins/prism.css");
